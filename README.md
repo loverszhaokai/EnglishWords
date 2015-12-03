@@ -1,7 +1,8 @@
 # EnglishWords
 
-Files "*_new.txt" have the new words.
-Files "*_remembered.txt" have the remembered words.
+Files "\*_new.txt" have the new words.
+
+Files "\*_remembered.txt" have the remembered words.
 
 Such as:
 
