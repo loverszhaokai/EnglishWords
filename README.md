@@ -6,9 +6,9 @@ Files "\*_remembered.txt" have the remembered words.
 
 Such as:
 
-normal_new.txt
+normal_new.txt    
 normal_remembered.txt
 
-computer_new.txt
+computer_new.txt    
 computer_remembered.txt
 
